@@ -98,29 +98,14 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Milindverma24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Milindverma24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Milindverma24/Milindverma24/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Milindverma24/Milindverma24/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Milindverma24/Milindverma24/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Milindverma24/Milindverma24/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ## Profile Views
